@@ -15,7 +15,7 @@ It’s lightweight, easy to deploy, and perfect for experimenting with web hosti
 ---
 
 ## 📂 Project Structure
-```
+
 
 foodmart/
 │── index.html         # Main landing page
@@ -24,7 +24,7 @@ foodmart/
 │── css/               # Stylesheets
 │── js/                # javascripts
 
-````
+```
 
 ---
 
@@ -42,7 +42,6 @@ Simply open `index.html` in your browser.
 
 ### 3. Deploy on Apache (Linux Example)
 
-```bash
 sudo rm -rf /var/www/html/*
 sudo cp -r * /var/www/html/
 sudo systemctl restart apache2
@@ -71,5 +70,3 @@ You can deploy Foodmart on:
 ## 📜 License
 
 This project is open-source. Feel free to use, modify, and deploy it as needed.
-
-```
