@@ -1,11 +1,3 @@
-Looks like I can’t directly open that GitHub repo right now, but no worries — I can still help you create a **clean README.md**.
-
-I’ll base it on a standard format for a project named **Foodmart** (assuming it’s a web app or static site deployed via Apache as per your earlier EC2 script).
-
-Here’s a simple but professional README:
-
----
-
 ```markdown
 # Foodmart 🍽️
 
@@ -28,10 +20,9 @@ It’s lightweight, easy to deploy, and perfect for experimenting with web hosti
 foodmart/
 │── index.html         # Main landing page
 │── about.html         # About section
-│── contact.html       # Contact page
-│── assets/            # Images, CSS, JS files
+│── images/            # Images
 │── css/               # Stylesheets
-│── js/                # JavaScript files
+│── js/                # javascripts
 
 ````
 
@@ -81,11 +72,4 @@ You can deploy Foodmart on:
 
 This project is open-source. Feel free to use, modify, and deploy it as needed.
 
-```
-
----
-
-Aniket, if you confirm the **exact contents** of the repo (HTML pages, assets, any framework like Bootstrap or JS libraries), I can refine this README to match it perfectly — even add screenshots and a clean demo section.  
-
-👉 Do you want me to make a **polished version with badges, screenshots, and a “Live Demo” section** so it looks more professional on GitHub?
 ```
